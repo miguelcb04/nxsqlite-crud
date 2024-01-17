@@ -4,7 +4,7 @@
   "description": "",
   "main": "db.js",
   "scripts": {
-    "db": "npm install && node db.js"
+    "db": "npm install && node db.js && node db2.js"
   },
   "keywords": [],
   "author": "",
